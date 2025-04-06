@@ -53,11 +53,3 @@ npm run dev
 
 This project is deployed on Vercel. You can view the live application at [https://todo-list-sand-three.vercel.app/](https://todo-list-sand-three.vercel.app/)
 
-To deploy your own version:
-1. Fork this repository
-2. Connect your fork to Vercel
-3. Deploy with one click!
-
-## License
-
-MIT

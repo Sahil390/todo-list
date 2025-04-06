@@ -84,7 +84,10 @@ function App() {
         >
           <Container maxW="container.md" py={4}>
             <Flex justify="space-between" align="center">
-              <Heading size="lg" color="brand.500">TaskMaster</Heading>
+              <Flex align="center">
+                <Box as="span" fontSize="xl" fontWeight="bold" color="brand.500" mr={2}>✓</Box>
+                <Heading size="lg" color="brand.500">TaskMaster</Heading>
+              </Flex>
               <Flex gap={4}>
                 <Text 
                   cursor="pointer" 

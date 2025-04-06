@@ -2,6 +2,10 @@
 
 A professional task management application built with React, TypeScript, and Chakra UI.
 
+## Live Demo
+
+Check out the live application: [TaskMaster](https://todo-list-sand-three.vercel.app/)
+
 ## Features
 
 - Add, complete, and delete tasks
@@ -47,7 +51,12 @@ npm run dev
 
 ## Deployment
 
-This project is configured for easy deployment on Vercel. Simply connect your GitHub repository to Vercel for automatic deployments.
+This project is deployed on Vercel. You can view the live application at [https://todo-list-sand-three.vercel.app/](https://todo-list-sand-three.vercel.app/)
+
+To deploy your own version:
+1. Fork this repository
+2. Connect your fork to Vercel
+3. Deploy with one click!
 
 ## License
 
